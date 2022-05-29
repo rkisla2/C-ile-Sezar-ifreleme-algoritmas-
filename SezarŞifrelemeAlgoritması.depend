@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653508813 source:c:\users\lenovo\desktop\sezarÞifrelemealgoritmasý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
